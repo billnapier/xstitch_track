@@ -1,0 +1,5 @@
+{
+  "name": "Cross Stitch Project Tracker",
+  "description": "An application to help you track your cross stitch projects, manage works-in-progress, and view your collection of finished pieces.",
+  "requestFramePermissions": []
+}
